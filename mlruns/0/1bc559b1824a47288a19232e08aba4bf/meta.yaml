@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/mktmi/Documents/ironhack/AI_Engineering/Work/Week5/lab-lora-tuning-peft/mlruns/0/1bc559b1824a47288a19232e08aba4bf/artifacts
+end_time: 1728482249501
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bc559b1824a47288a19232e08aba4bf
+run_name: ./peft_lab_outputs
+run_uuid: 1bc559b1824a47288a19232e08aba4bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728481422893
+status: 3
+tags: []
+user_id: mktmi
