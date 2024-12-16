@@ -22,6 +22,12 @@ Read the instructions for each cell and provide your answers. Make sure to test 
 
 **Good luck!**
 
+1. Clone the repository:
+```bash
+git clone <repository-url>
+cd roboreviews
+```
+
 # RoboReviews: AI-Powered Product Review Analysis
 
 ## Overview
